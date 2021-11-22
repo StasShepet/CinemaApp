@@ -1,5 +1,7 @@
+# Cinema App
+
 # :closed_book: General info:
-Hello! Immediately to the project, this is web-api, which is built on Spring and Hibernate frameworks.
+Hello! Immediately in the project is a web-api, where I implemented the processing of various requests, depending on the role that were granted to him after authorization. The project was implemented using Spring, Hibernate, Java 11 and compliance with the principles of SOLID and REST
 
 # :cinema: About project:
 This is a cinema service, where you can use next requests:
